@@ -27,3 +27,9 @@ My Skills:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaikRahilAhmed)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikRahilAhmed&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikRahilAhmed&show_icons=true&theme=default)](https://github.com/shaikRahilAhmed)
