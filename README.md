@@ -33,7 +33,6 @@ My Skills:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kameswarasarma9" alt="GitHub Streak" />
   </a>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kameswarasarma9)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kameswarasarma9&show_icons=true&theme=default)](https://github.com/kameswarasarma9)
 
