@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 , I'm R.V Kameswara Sarma
 
-<!--
-**KameswaraSarma9/KameswaraSarma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Dedicated and Enthusiastic Full Stack Developer From India.
 
-Here are some ideas to get you started:
+-- 🔭 Currently Working on Open Source Projects.
+-- 🌱 I'm currently learning Web Development.
+-- 👨🏻‍💻 All of my Projects are available on https://github.com/KameswaraSarma9
+-- 📬 Reach me Through sarmavenkata123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue)](...)
+[![Instagram] (https://img.shields.io/badge/Instagram-pink)](...)
+
+My Coding Handles:
+[![LeetCode] (https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](...)
+[![CodeChef] (https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](...)
