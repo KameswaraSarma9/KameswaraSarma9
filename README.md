@@ -10,7 +10,7 @@ A Dedicated and Enthusiastic Full Stack Developer From India.
 
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kameswarasarma/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/ikameswarasarma/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/rvkameswarasarma1/)
 
 My Coding Handles:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/sarmavenkata123/) 
